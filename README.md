@@ -101,5 +101,3 @@ Village-level economic growth is strongly associated with:
 - Machine learning-based growth prediction  
 - Automated pan-India scalability pipeline  
 
-
-## 📁 Repository Structure (Summary)
