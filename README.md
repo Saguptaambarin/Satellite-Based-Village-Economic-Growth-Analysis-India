@@ -46,6 +46,9 @@ Key indicators derived:
 - 🏗️ Built-up index using NDBI  
 - 🌿 Vegetation index (NDVI used for stability and validation)  
 
+###**GEE scripts-** [https://code.earthengine.google.com/8030179aa06a74a9dd43f1b582f2b7c1]-Night-time_Light_Growth
+[https://code.earthengine.google.com/050d95103ac7825965575999fec41fbc]-NDBI_change
+[https://code.earthengine.google.com/41671f46f5de443ac27947f367549f10]-NDVI_change
 
 ### 3. Economic Growth Index (EGI)
 
